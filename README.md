@@ -4,7 +4,7 @@
 <img alt="platform" src="https://img.shields.io/badge/platform-X3Pi-l"/>
 </p>
 <p align="center">
-    语言：<a href="./docs/docs_en/README_EN.md"><strong>English</strong></a> / <strong>中文</strong>
+    语言：<a href="./docs/README_en.md"><strong>English</strong></a> / <strong>中文</strong>
 </p>
 
 为丰富地平线 `X3Pi` 的软件生态，`vulcanPi` 为用户提供使用 `C++` 驱动 GPIO 的方法。
